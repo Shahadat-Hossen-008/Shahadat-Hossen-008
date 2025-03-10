@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shahadat Hossen</h1>
 <h3 align="center">A Passionate Frontend Developer, Always Learning and Growing.</h3>
 
+- 🔭 I’m currently working on **Portfolio**
 - 🌱 I’m currently learning **MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahadat-Hossen-008?tab=repositories](https://github.com/Shahadat-Hossen-008?tab=repositories)
