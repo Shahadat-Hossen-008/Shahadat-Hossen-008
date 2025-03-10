@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shahadat Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi there 👋, I'm Shahadat Hossen</h1>
+<h3 align="center">Passionate Frontend Developer from Bangladesh, Always Learning and Growing.</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahadat-Hossen-008?tab=repositories](https://github.com/Shahadat-Hossen-008?tab=repositories)
+
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **hossensahadat96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahadat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahadat hossain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahadat-hossain-err00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahadat-hossain-err00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
