@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shahadat Hossen</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh, Always Learning and Growing.</h3>
+<h3 align="center">A Passionate Frontend Developer, Always Learning and Growing.</h3>
 
 - 🌱 I’m currently learning **MySQL**
 
