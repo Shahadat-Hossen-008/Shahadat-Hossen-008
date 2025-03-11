@@ -1,6 +1,20 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/DHGLKjzr/White-and-Blue-Artist-Linked-In-Background-Photo.png"  />
+</div>
+
 <h1 align="center">Hi there 👋, I'm Shahadat Hossen</h1>
 <h3 align="center">A Passionate Frontend Developer, Always Learning and Growing.</h3>
 
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨I am a front-end developer, continuously learning and growing my skills in JavaScript, React, and Tailwind CSS. I enjoy exploring new features, tackling challenges, and building user-friendly web applications. Always eager to improve and contribute to exciting projects!</p>
+
+###
 - 🔭 I’m currently working on **Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahadat-Hossen-008?tab=repositories](https://github.com/Shahadat-Hossen-008?tab=repositories)
