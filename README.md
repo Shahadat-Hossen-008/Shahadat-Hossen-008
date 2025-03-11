@@ -54,8 +54,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadat-hossen-008&show_icons=true&locale=en&layout=compact" alt="shahadat-hossen-008" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahadat-Hossen-008&show_icons=true&locale=en&layout=compact" alt="shahadat-hossen-008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadat-hossen-008&show_icons=true&locale=en" alt="shahadat-hossen-008" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahadat-Hossen-008&show_icons=true&locale=en" alt="Shahadat-Hossen-008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-hossen-008&" alt="shahadat-hossen-008" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat-Hossen-008&" alt="shahadat-hossen-008" /></p>
