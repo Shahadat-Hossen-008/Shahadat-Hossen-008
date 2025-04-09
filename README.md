@@ -15,7 +15,7 @@
 <p align="left">✨I am a front-end developer, continuously learning and growing my skills in JavaScript, React, and Tailwind CSS. I enjoy exploring new features, tackling challenges, and building user-friendly web applications. Always eager to improve and contribute to exciting projects!</p>
 
 ###
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Next JS Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahadat-Hossen-008?tab=repositories](https://github.com/Shahadat-Hossen-008?tab=repositories)
 
