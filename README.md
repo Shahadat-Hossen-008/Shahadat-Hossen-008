@@ -17,7 +17,7 @@
 ###
 - 🔭 I’m currently working on **Next JS Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shahadat-Hossen-008?tab=repositories](https://github.com/Shahadat-Hossen-008?tab=repositories)
+- 👨‍💻 Want to know about me. Please visit here  [Shahadat Hossain](https://www.shahadat008.tech/)
 
 - 💬 Ask me about **React JS**
 
